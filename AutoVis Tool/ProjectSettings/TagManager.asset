@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - projectile
+  - FxTemporaire
+  - InteriorHeatmap
+  - MainEventLine
+  - SubEventLine
+  - EventIcon
+  - AvatarModell
+  - SpeechBubble
+  - Tablet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - EventIconLayer
+  - EventLines
+  - Heatmaps
+  - Mask
+  - Envrionment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: EventIconLayer
+    uniqueID: 3875650237
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,38 @@
+[
+  {
+    "dataType": "Actions",
+    "data": [
+      {
+        "valueX": 1527596023.140064,
+        "valueY": "Nothing"
+      },
+	  {
+        "valueX": 1527596026.210806,
+        "valueY": "Reading Newspaper"
+      },
+	  {
+        "valueX": 1527596126.969368,
+        "valueY": "Nothing"
+      }     
+    ]
+  },
+  {
+    "dataType": "Driving",
+    "data": [
+      {
+        "valueX": 1527596023.140064,
+        "valueY": "Nothing"
+      }
+      
+    ]
+  },
+  {
+    "dataType": "Activity",
+    "data": [
+      {
+        "valueX": 1527596023.140064,
+        "valueY": "Nothing"
+      }
+    ]
+  }
+]

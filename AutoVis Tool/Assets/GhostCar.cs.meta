@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1c2f64227699a7c43abf63579d508db9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - mainCar: {instanceID: 0}
+  - ghostCarPrefab: {fileID: 1526297426731899640, guid: 4205fb017b3fd3c4a833280a1d055798,
+      type: 3}
+  - carSyncerPrefab: {fileID: 5061730469094821605, guid: d101d8309569887438f5931d3f407a32,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

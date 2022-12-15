@@ -1,0 +1,285 @@
+﻿[
+  {
+    "dataType": "Actions",
+    "data": [
+      {
+        "valueX": 1662134240.4468699,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134326.2349572,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134326.4026067,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134326.8207331,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134326.8772767,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134327.6490531,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134328.0949566,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134328.3816447,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134328.5061407,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134328.7516603,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134329.040828,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134329.2258363,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134329.282876,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134333.9085708,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134334.1932743,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134428.4107318,
+        "valueY": "Voice Command"
+      },
+      {
+        "valueX": 1662134431.4107318,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134482.9044433,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134483.0269551,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134484.8953867,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134485.0223622,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134485.6622024,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134485.7246985,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134485.8462179,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134485.9682341,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134492.9623275,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134493.1398954,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134493.3219278,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134493.83132,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134495.1804392,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134495.488951,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134574.9193578,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134575.8954856,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134576.1429904,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134576.2054851,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134578.1815491,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134578.4761727,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134635.3752906,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134635.8246663,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134636.1659138,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134636.5810654,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134636.6911781,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134636.8548579,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134636.9624898,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134637.2982814,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134637.5715775,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134637.6315932,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134637.80569,
+        "valueY": "Touch"
+      },
+      {
+        "valueX": 1662134637.915801,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134791.5695763,
+        "valueY": "Pointing & Voice"
+      },
+      {
+        "valueX": 1662134793.0298319,
+        "valueY": "Nothing"
+      }
+    ]
+  },
+  {
+    "dataType": "Driving",
+    "data": [
+      {
+        "valueX": 1662134240.4468699,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134404.0856044,
+        "valueY": "Decelerating"
+      },
+      {
+        "valueX": 1662134406.0700996,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134467.71544,
+        "valueY": "Accelerating"
+      },
+      {
+        "valueX": 1662134469.7589591,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134520.5012312,
+        "valueY": "Second Passenger Enters"
+      },
+      {
+        "valueX": 1662134530.8135638,
+        "valueY": "Accelerating"
+      },
+      {
+        "valueX": 1662134532.7802029,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134727.527101,
+        "valueY": "Emergency Break: Road Crossing"
+      },
+      {
+        "valueX": 1662134731.0829239,
+        "valueY": "Accelerating"
+      },
+      {
+        "valueX": 1662134733.1066058,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134757.5951073,
+        "valueY": "Accelerating"
+      },
+      {
+        "valueX": 1662134759.5577788,
+        "valueY": "Nothing"
+      },
+      {
+        "valueX": 1662134808.7555072,
+        "valueY": "Decelerating"
+      },
+      {
+        "valueX": 1662134810.7811701,
+        "valueY": "Nothing"
+      }
+    ]
+  },
+  {
+    "dataType": "Activity",
+    "data": [
+      {
+        "valueX": 1662134240.4468699,
+        "valueY": "Nothing"
+      }
+    ]
+  }
+]

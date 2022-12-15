@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.asfi3dview.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\mi\\Unity Projects\\automotive-signal-fusion-interpreter\\ASFI 3D View\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "ASFI 3D View [Testing]"
+        }
+      }
+    }
+  ]
+}

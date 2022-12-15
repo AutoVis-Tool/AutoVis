@@ -1,0 +1,442 @@
+[1209/232344.888:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1209/233004.196:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1209/233025.288:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1209/233255.157:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1209/233822.782:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/111036.149:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/111115.962:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/111356.537:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/114316.039:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/114633.337:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/114805.967:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/115050.404:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/115707.027:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/120413.628:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/121223.990:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/124131.952:ERROR:block_files.cc(440)] Failed to open C:/Users/thilo/AppData/LocalLow/UULM/ASFI 3D View\Vuplex.WebView\chromium-cache\GPUCache\data_0
+[1210/124133.057:ERROR:disk_cache.cc(186)] Unable to create cache
+[1210/124133.057:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1210/124324.044:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/125327.716:ERROR:backend_impl.cc(1433)] Unable to map Index file
+[1210/125327.723:ERROR:disk_cache.cc(186)] Unable to create cache
+[1210/125327.725:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1210/125443.969:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/125642.676:ERROR:backend_impl.cc(1433)] Unable to map Index file
+[1210/125642.685:ERROR:disk_cache.cc(186)] Unable to create cache
+[1210/125642.686:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1210/125709.412:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/125827.396:ERROR:backend_impl.cc(1433)] Unable to map Index file
+[1210/125827.406:ERROR:disk_cache.cc(186)] Unable to create cache
+[1210/125827.407:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1210/130025.950:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/131023.768:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/131151.285:ERROR:backend_impl.cc(1433)] Unable to map Index file
+[1210/131151.301:ERROR:disk_cache.cc(186)] Unable to create cache
+[1210/131151.301:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1210/131232.901:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/131446.130:ERROR:block_files.cc(453)] Invalid file version or magic C:/Users/thilo/AppData/LocalLow/UULM/ASFI 3D View\Vuplex.WebView\chromium-cache\GPUCache\data_3
+[1210/131520.356:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/131840.134:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/131856.094:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/132153.912:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/143553.548:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/143908.722:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/144009.856:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/144744.755:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/205046.965:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/211312.673:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/211555.702:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/211727.566:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/212011.146:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/213628.356:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/220350.567:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/221524.885:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/221952.571:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/222200.393:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/222632.206:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/223046.196:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/223230.788:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/223402.602:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/223638.131:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/223924.467:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/224343.267:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/224354.224:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/224704.366:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1210/225507.144:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/225646.108:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/230554.902:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/230731.640:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/230856.408:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1210/235030.989:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/002227.867:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/002258.888:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/003045.842:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/003427.279:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/004707.686:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/010237.240:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/010653.130:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/012951.711:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/020537.266:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/021812.714:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/032647.295:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/034213.180:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/034730.205:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/041445.859:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/042051.854:ERROR:block_files.cc(440)] Failed to open C:/Users/thilo/AppData/LocalLow/UULM/ASFI 3D View\Vuplex.WebView\chromium-cache\GPUCache\data_0
+[1211/042053.898:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/042053.898:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1211/042338.496:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/042338.498:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1211/042339.204:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/042815.139:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/042815.139:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1211/042849.577:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/043916.265:ERROR:backend_impl.cc(1433)] Unable to map Index file
+[1211/043918.117:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/043918.117:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1211/044316.067:ERROR:backend_impl.cc(1433)] Unable to map Index file
+[1211/044316.077:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/044316.077:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1211/044422.606:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/045422.661:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/045422.661:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1211/045611.708:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/050623.150:ERROR:backend_impl.cc(1433)] Unable to map Index file
+[1211/050627.247:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/050627.247:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1211/050909.108:ERROR:backend_impl.cc(1433)] Unable to map Index file
+[1211/050909.123:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/050909.123:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1211/051106.249:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/051529.436:ERROR:block_files.cc(440)] Failed to open C:/Users/thilo/AppData/LocalLow/UULM/ASFI 3D View\Vuplex.WebView\chromium-cache\GPUCache\data_0
+[1211/051714.632:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/052117.545:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/055824.046:ERROR:block_files.cc(440)] Failed to open C:/Users/thilo/AppData/LocalLow/UULM/ASFI 3D View\Vuplex.WebView\chromium-cache\GPUCache\data_0
+[1211/055828.784:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/055828.784:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1211/055829.751:ERROR:block_files.cc(440)] Failed to open C:/Users/thilo/AppData/LocalLow/UULM/ASFI 3D View\Vuplex.WebView\chromium-cache\Cache\Cache_Data\data_2
+[1211/055829.804:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/060016.405:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/060138.200:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/060644.418:ERROR:backend_impl.cc(1433)] Unable to map Index file
+[1211/060647.751:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/060647.751:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1211/060648.910:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/060837.705:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/061127.110:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1211/061241.374:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1211/061241.966:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1211/113331.790:ERROR:block_files.cc(440)] Failed to open C:/Users/thilo/AppData/LocalLow/UULM/ASFI 3D View\Vuplex.WebView\chromium-cache\GPUCache\data_0
+[1211/113338.007:ERROR:block_files.cc(440)] Failed to open C:/Users/thilo/AppData/LocalLow/UULM/ASFI 3D View\Vuplex.WebView\chromium-cache\Cache\Cache_Data\data_0
+[1211/113522.014:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/114227.000:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/114452.871:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/132705.377:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/135648.800:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/135947.377:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/140058.712:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/142028.610:ERROR:block_files.cc(440)] Failed to open C:/Users/thilo/AppData/LocalLow/UULM/ASFI 3D View\Vuplex.WebView\chromium-cache\GPUCache\data_0
+[1211/142032.885:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/142032.885:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1211/143742.986:ERROR:backend_impl.cc(1433)] Unable to map Index file
+[1211/143745.339:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/143745.339:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1211/143933.693:ERROR:backend_impl.cc(1433)] Unable to map Index file
+[1211/143933.704:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/143933.704:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1211/144132.794:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/144306.864:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/144558.587:ERROR:backend_impl.cc(1433)] Unable to map Index file
+[1211/144558.598:ERROR:disk_cache.cc(186)] Unable to create cache
+[1211/144558.598:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1211/144644.107:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1211/144757.737:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1211/144758.364:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1211/145051.394:ERROR:backend_impl.cc(1433)] Unable to map Index file
+[1211/145250.782:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/145356.740:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/145643.613:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/152856.950:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1211/152942.370:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1211/152942.474:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/152944.282:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1211/153237.133:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/153833.345:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/154021.040:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/154631.313:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/154710.189:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/155238.422:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/155553.343:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/160405.131:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/160651.554:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/160707.290:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/162213.097:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/162721.870:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/163638.419:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/163931.414:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/164125.832:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/164452.080:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/164703.204:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1211/210701.423:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/233825.929:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1211/234346.072:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/001501.276:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/001928.938:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/002348.824:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/104559.974:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/105303.523:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/105601.141:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/105847.078:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/105941.649:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/110243.617:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/111054.474:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/114007.966:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/114832.788:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/114917.023:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/115328.088:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/115506.136:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/115712.295:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/120314.687:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/122425.315:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/122904.361:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/122951.392:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/123820.138:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/123953.662:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/124802.390:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/125123.591:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/125437.845:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/125655.223:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/130703.527:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/130842.675:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1212/130943.511:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1212/130943.556:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1212/132933.958:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/133209.493:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/133214.171:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/133528.153:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/133757.285:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/133802.551:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/134746.998:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/134925.125:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/135005.380:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/135222.171:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/135223.613:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/135253.847:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/135502.912:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/140312.049:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/140410.225:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/141329.015:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/141528.206:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/141816.695:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/141933.695:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/142149.493:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/142630.065:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/143434.751:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/143908.500:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/143949.729:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1212/144043.002:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1212/144043.002:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/mi/AppData/LocalLow/UULM/ASFI 3D View\Vuplex.WebView\chromium-cache\GPUCache to C:/Users/mi/AppData/LocalLow/UULM/ASFI 3D View\Vuplex.WebView\chromium-cache\old_GPUCache_000
+[1212/144043.002:ERROR:disk_cache.cc(186)] Unable to create cache
+[1212/144043.002:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1212/144043.007:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1212/144043.008:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/mi/AppData/LocalLow/UULM/ASFI 3D View\Vuplex.WebView\chromium-cache\Cache\Cache_Data to C:/Users/mi/AppData/LocalLow/UULM/ASFI 3D View\Vuplex.WebView\chromium-cache\Cache\old_Cache_Data_000
+[1212/144043.008:ERROR:disk_cache.cc(186)] Unable to create cache
+[1212/144044.293:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1212/144108.481:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1212/144108.524:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1212/144114.428:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/144228.290:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/144418.676:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/144728.437:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/145032.917:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/145142.725:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/145301.675:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/145406.769:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/145551.282:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/145726.440:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/150125.449:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/150416.300:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/150520.131:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/150854.140:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/151243.500:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/151512.099:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/173428.379:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/173505.437:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/173542.235:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/173735.760:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/174846.224:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/175151.929:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/175332.961:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/175615.880:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/175734.130:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/181919.271:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/182042.353:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/182311.764:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/182748.641:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/183520.504:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/183907.782:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/184015.982:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/184129.254:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/184416.797:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/185248.774:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/191017.807:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/191110.121:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/191438.538:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/191602.459:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/192120.411:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/193105.618:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/193639.606:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/193757.637:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1212/193839.580:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1212/193839.629:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1212/194201.831:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/194347.795:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/194944.468:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1212/195304.867:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/195324.142:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1212/195424.835:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1212/195424.887:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1212/195815.128:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1212/195923.792:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/101408.267:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/101804.693:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/102014.252:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/102148.507:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/102415.029:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/102735.118:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/102735.495:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/103016.556:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/103305.321:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/103643.056:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/103931.032:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/105150.140:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/105211.986:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/105513.058:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/105718.798:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/105947.940:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/111142.722:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/111248.049:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/111644.713:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/111723.784:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/112027.148:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/112408.259:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/112604.006:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/112708.967:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/112904.213:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/113224.317:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/113527.318:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/113719.937:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/114000.312:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/114739.284:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/115018.453:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/115326.482:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/120058.175:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/120531.626:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/121353.207:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/122932.198:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/124329.013:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/124830.944:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/125001.851:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/125248.922:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/125703.449:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/125746.294:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/130052.391:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/130302.474:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/130617.168:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/132243.200:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/132717.389:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/132841.639:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/133152.245:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/133418.890:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/133711.336:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/133958.221:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/134342.395:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/134626.686:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/135017.429:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/135548.308:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/135838.306:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/140037.702:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/140414.376:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/140731.897:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1213/140814.333:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1213/140814.373:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1213/141042.552:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/141203.027:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/141418.224:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/141837.283:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/143422.506:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/143945.466:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/144318.680:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/144359.291:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/145224.934:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/145812.639:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/151050.705:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/151223.379:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/151540.168:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/151614.147:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/151843.807:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/152133.405:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/152240.194:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/152635.694:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/154737.337:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/155049.501:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/155129.252:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/155451.019:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/160842.317:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/160925.415:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/161050.444:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/161257.456:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/161532.676:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/162737.497:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/163047.182:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/163632.828:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/163908.730:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/172001.820:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/172108.937:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/172354.901:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/172645.506:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/172929.726:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/173039.835:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/173927.802:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/181030.495:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/181738.798:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/182009.794:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/182435.896:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/183045.592:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/183746.688:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/184113.419:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/184601.213:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1213/184603.491:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/184643.474:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1213/184643.509:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1213/184746.442:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/185057.573:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/185738.475:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/190026.671:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/191401.052:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/192415.056:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/193404.857:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/193719.709:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/201924.254:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/202200.132:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/202633.841:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/202850.607:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/202947.137:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/203004.179:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/203044.151:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/203235.900:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/203411.875:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/203639.818:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/203749.768:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/204044.917:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/204255.182:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/205028.328:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/210758.671:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/211213.244:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/211533.001:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/211547.278:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/211754.720:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1213/212239.610:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1213/212614.724:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1215/162821.925:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1215/163211.888:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
