@@ -1,0 +1,5686 @@
+[
+    {
+        "timestamp": 0.03333333333333333,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "83%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.06666666666666667,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "86%"
+            },
+            {
+                "type": "person",
+                "accuracy": "76%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.1,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "76%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.13333333333333333,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "25%"
+            },
+            {
+                "type": "person",
+                "accuracy": "65%"
+            },
+            {
+                "type": "person",
+                "accuracy": "84%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.16666666666666666,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "person",
+                "accuracy": "64%"
+            },
+            {
+                "type": "person",
+                "accuracy": "71%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.19999999999999998,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            },
+            {
+                "type": "person",
+                "accuracy": "67%"
+            },
+            {
+                "type": "person",
+                "accuracy": "72%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.2333333333333333,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "37%"
+            },
+            {
+                "type": "person",
+                "accuracy": "72%"
+            },
+            {
+                "type": "person",
+                "accuracy": "76%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.26666666666666666,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            },
+            {
+                "type": "person",
+                "accuracy": "78%"
+            },
+            {
+                "type": "person",
+                "accuracy": "84%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.3,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "41%"
+            },
+            {
+                "type": "person",
+                "accuracy": "79%"
+            },
+            {
+                "type": "person",
+                "accuracy": "88%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.3333333333333333,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "45%"
+            },
+            {
+                "type": "person",
+                "accuracy": "80%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.36666666666666664,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "39%"
+            },
+            {
+                "type": "person",
+                "accuracy": "84%"
+            },
+            {
+                "type": "person",
+                "accuracy": "84%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.39999999999999997,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "person",
+                "accuracy": "78%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.4333333333333333,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "person",
+                "accuracy": "78%"
+            },
+            {
+                "type": "person",
+                "accuracy": "91%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.4666666666666666,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "42%"
+            },
+            {
+                "type": "person",
+                "accuracy": "73%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.49999999999999994,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "35%"
+            },
+            {
+                "type": "person",
+                "accuracy": "76%"
+            },
+            {
+                "type": "person",
+                "accuracy": "92%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.5333333333333333,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "person",
+                "accuracy": "70%"
+            },
+            {
+                "type": "person",
+                "accuracy": "92%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.5666666666666667,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            },
+            {
+                "type": "person",
+                "accuracy": "74%"
+            },
+            {
+                "type": "person",
+                "accuracy": "94%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.6,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "72%"
+            },
+            {
+                "type": "person",
+                "accuracy": "95%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.6333333333333333,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "94%"
+            },
+            {
+                "type": "person",
+                "accuracy": "77%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.6666666666666666,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "95%"
+            },
+            {
+                "type": "person",
+                "accuracy": "74%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.7,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "95%"
+            },
+            {
+                "type": "person",
+                "accuracy": "75%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.7333333333333333,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "91%"
+            },
+            {
+                "type": "person",
+                "accuracy": "77%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.7666666666666666,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "87%"
+            },
+            {
+                "type": "person",
+                "accuracy": "80%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.7999999999999999,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "92%"
+            },
+            {
+                "type": "person",
+                "accuracy": "80%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.8333333333333333,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "90%"
+            },
+            {
+                "type": "person",
+                "accuracy": "77%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.8666666666666666,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "87%"
+            },
+            {
+                "type": "person",
+                "accuracy": "77%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.8999999999999999,
+        "Objects": [
+            {
+                "type": "remote",
+                "accuracy": "25%"
+            },
+            {
+                "type": "person",
+                "accuracy": "75%"
+            },
+            {
+                "type": "person",
+                "accuracy": "83%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.9333333333333332,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "77%"
+            },
+            {
+                "type": "person",
+                "accuracy": "71%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.9666666666666666,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "85%"
+            },
+            {
+                "type": "person",
+                "accuracy": "73%"
+            }
+        ]
+    },
+    {
+        "timestamp": 0.9999999999999999,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "73%"
+            },
+            {
+                "type": "tie",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "73%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.0333333333333332,
+        "Objects": [
+            {
+                "type": "tie",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "66%"
+            },
+            {
+                "type": "person",
+                "accuracy": "74%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.0666666666666667,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "77%"
+            },
+            {
+                "type": "person",
+                "accuracy": "77%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.1,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "77%"
+            },
+            {
+                "type": "person",
+                "accuracy": "79%"
+            },
+            {
+                "type": "car",
+                "accuracy": "26%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.1333333333333335,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "39%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "76%"
+            },
+            {
+                "type": "person",
+                "accuracy": "74%"
+            },
+            {
+                "type": "car",
+                "accuracy": "35%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.166666666666667,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "32%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "76%"
+            },
+            {
+                "type": "car",
+                "accuracy": "30%"
+            },
+            {
+                "type": "person",
+                "accuracy": "82%"
+            },
+            {
+                "type": "car",
+                "accuracy": "40%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.2000000000000004,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "69%"
+            },
+            {
+                "type": "car",
+                "accuracy": "37%"
+            },
+            {
+                "type": "person",
+                "accuracy": "84%"
+            },
+            {
+                "type": "car",
+                "accuracy": "44%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.2333333333333338,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "car",
+                "accuracy": "32%"
+            },
+            {
+                "type": "person",
+                "accuracy": "69%"
+            },
+            {
+                "type": "person",
+                "accuracy": "79%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.2666666666666673,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "68%"
+            },
+            {
+                "type": "person",
+                "accuracy": "91%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.3000000000000007,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "50%"
+            },
+            {
+                "type": "person",
+                "accuracy": "91%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.3333333333333341,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "89%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.3666666666666676,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.400000000000001,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "93%"
+            },
+            {
+                "type": "person",
+                "accuracy": "48%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.4333333333333345,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "93%"
+            },
+            {
+                "type": "car",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "42%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.466666666666668,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "94%"
+            },
+            {
+                "type": "car",
+                "accuracy": "37%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.5000000000000013,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "41%"
+            },
+            {
+                "type": "car",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "92%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.5333333333333348,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "40%"
+            },
+            {
+                "type": "car",
+                "accuracy": "30%"
+            },
+            {
+                "type": "person",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "91%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.5666666666666682,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "39%"
+            },
+            {
+                "type": "car",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "37%"
+            },
+            {
+                "type": "person",
+                "accuracy": "94%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.6000000000000016,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "41%"
+            },
+            {
+                "type": "person",
+                "accuracy": "39%"
+            },
+            {
+                "type": "person",
+                "accuracy": "94%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.633333333333335,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "41%"
+            },
+            {
+                "type": "person",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "94%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.6666666666666685,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "43%"
+            },
+            {
+                "type": "person",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "94%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.700000000000002,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "45%"
+            },
+            {
+                "type": "person",
+                "accuracy": "30%"
+            },
+            {
+                "type": "person",
+                "accuracy": "94%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.7333333333333354,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "44%"
+            },
+            {
+                "type": "person",
+                "accuracy": "94%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.7666666666666688,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "44%"
+            },
+            {
+                "type": "person",
+                "accuracy": "93%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.8000000000000023,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "45%"
+            },
+            {
+                "type": "person",
+                "accuracy": "91%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.8333333333333357,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "45%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.8666666666666691,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "41%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.9000000000000026,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "86%"
+            },
+            {
+                "type": "car",
+                "accuracy": "38%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.933333333333336,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "63%"
+            }
+        ]
+    },
+    {
+        "timestamp": 1.9666666666666694,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "25%"
+            },
+            {
+                "type": "person",
+                "accuracy": "84%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.0000000000000027,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.033333333333336,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "88%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.066666666666669,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "25%"
+            },
+            {
+                "type": "person",
+                "accuracy": "92%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.1000000000000023,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "93%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.1333333333333355,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "93%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.1666666666666687,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "83%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.200000000000002,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "92%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.233333333333335,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "77%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.2666666666666684,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "47%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.3000000000000016,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "37%"
+            },
+            {
+                "type": "person",
+                "accuracy": "88%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.333333333333335,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "52%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "person",
+                "accuracy": "82%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.366666666666668,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "42%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "person",
+                "accuracy": "93%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.4000000000000012,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "94%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.4333333333333345,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "25%"
+            },
+            {
+                "type": "person",
+                "accuracy": "93%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.4666666666666677,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "45%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "35%"
+            },
+            {
+                "type": "person",
+                "accuracy": "88%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.500000000000001,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "49%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.533333333333334,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "45%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.5666666666666673,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "56%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            },
+            {
+                "type": "person",
+                "accuracy": "73%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.6000000000000005,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "41%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "39%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "71%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.6333333333333337,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "62%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "56%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.666666666666667,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "61%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "34%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.7,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "63%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "80%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.7333333333333334,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "49%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "45%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.7666666666666666,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "48%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.8,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.833333333333333,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "46%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.8666666666666663,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.8999999999999995,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.9333333333333327,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.966666666666666,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "42%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "37%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "25%"
+            }
+        ]
+    },
+    {
+        "timestamp": 2.999999999999999,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "63%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "48%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "44%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.0333333333333323,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "52%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "43%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            },
+            {
+                "type": "person",
+                "accuracy": "28%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.0666666666666655,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "52%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "46%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "38%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.0999999999999988,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "37%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "36%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.133333333333332,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "43%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "49%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.166666666666665,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "68%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.1999999999999984,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "37%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "25%"
+            },
+            {
+                "type": "person",
+                "accuracy": "50%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.2333333333333316,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "37%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "66%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.266666666666665,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "67%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.299999999999998,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "37%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "35%"
+            },
+            {
+                "type": "person",
+                "accuracy": "63%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.3333333333333313,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "71%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.3666666666666645,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "79%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.3999999999999977,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "65%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.433333333333331,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "49%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.466666666666664,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.4999999999999973,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "41%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.5333333333333306,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "33%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.5666666666666638,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.599999999999997,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.63333333333333,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "32%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.6666666666666634,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.6999999999999966,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.73333333333333,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.766666666666663,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.7999999999999963,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "44%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.8333333333333295,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "39%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            },
+            {
+                "type": "person",
+                "accuracy": "36%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.8666666666666627,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.899999999999996,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "32%"
+            },
+            {
+                "type": "person",
+                "accuracy": "50%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.933333333333329,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "54%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "38%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.9666666666666623,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "56%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "35%"
+            }
+        ]
+    },
+    {
+        "timestamp": 3.9999999999999956,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "55%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "35%"
+            },
+            {
+                "type": "person",
+                "accuracy": "26%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.033333333333329,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "55%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.066666666666662,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "52%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.099999999999995,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "53%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.133333333333328,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "52%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.166666666666662,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "52%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.199999999999995,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "51%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.233333333333328,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "45%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.266666666666661,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "48%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "25%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.2999999999999945,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "49%"
+            },
+            {
+                "type": "person",
+                "accuracy": "41%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.333333333333328,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "46%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.366666666666661,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "54%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.399999999999994,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "54%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.433333333333327,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "41%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.466666666666661,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "39%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.499999999999994,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.533333333333327,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "44%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.56666666666666,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "37%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "32%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.599999999999993,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.633333333333327,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "35%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.66666666666666,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "32%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.699999999999993,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "32%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "32%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.733333333333326,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.7666666666666595,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "32%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.799999999999993,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "41%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "95%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.833333333333326,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "42%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            },
+            {
+                "type": "person",
+                "accuracy": "91%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.866666666666659,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "37%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.899999999999992,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "person",
+                "accuracy": "61%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.933333333333326,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "41%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            },
+            {
+                "type": "person",
+                "accuracy": "69%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.966666666666659,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "55%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "45%"
+            }
+        ]
+    },
+    {
+        "timestamp": 4.999999999999992,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "46%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.033333333333325,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "52%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.066666666666658,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.099999999999992,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.133333333333325,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.166666666666658,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.199999999999991,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.2333333333333245,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.266666666666658,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "32%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.299999999999991,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "35%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.333333333333324,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.366666666666657,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "43%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.399999999999991,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "39%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.433333333333324,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.466666666666657,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "41%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.49999999999999,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.5333333333333234,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.566666666666657,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.59999999999999,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "41%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.633333333333323,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "46%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "25%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.666666666666656,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.6999999999999895,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "42%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.733333333333323,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "25%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.766666666666656,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.799999999999989,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "50%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "32%"
+            },
+            {
+                "type": "person",
+                "accuracy": "58%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.833333333333322,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "44%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "25%"
+            },
+            {
+                "type": "person",
+                "accuracy": "62%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.866666666666656,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "39%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.899999999999989,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "25%"
+            },
+            {
+                "type": "person",
+                "accuracy": "66%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.933333333333322,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "47%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "71%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.966666666666655,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "44%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "25%"
+            },
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "76%"
+            },
+            {
+                "type": "car",
+                "accuracy": "40%"
+            }
+        ]
+    },
+    {
+        "timestamp": 5.9999999999999885,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "46%"
+            },
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "76%"
+            },
+            {
+                "type": "car",
+                "accuracy": "40%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.033333333333322,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "46%"
+            },
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "car",
+                "accuracy": "37%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.066666666666655,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            },
+            {
+                "type": "car",
+                "accuracy": "34%"
+            },
+            {
+                "type": "person",
+                "accuracy": "39%"
+            },
+            {
+                "type": "car",
+                "accuracy": "38%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.099999999999988,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            },
+            {
+                "type": "person",
+                "accuracy": "32%"
+            },
+            {
+                "type": "car",
+                "accuracy": "30%"
+            },
+            {
+                "type": "car",
+                "accuracy": "32%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.133333333333321,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "37%"
+            },
+            {
+                "type": "car",
+                "accuracy": "30%"
+            },
+            {
+                "type": "person",
+                "accuracy": "46%"
+            },
+            {
+                "type": "car",
+                "accuracy": "31%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.1666666666666545,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "52%"
+            },
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "car",
+                "accuracy": "33%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.199999999999988,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "37%"
+            },
+            {
+                "type": "person",
+                "accuracy": "55%"
+            },
+            {
+                "type": "car",
+                "accuracy": "32%"
+            },
+            {
+                "type": "car",
+                "accuracy": "34%"
+            },
+            {
+                "type": "bottle",
+                "accuracy": "49%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.233333333333321,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "car",
+                "accuracy": "32%"
+            },
+            {
+                "type": "person",
+                "accuracy": "61%"
+            },
+            {
+                "type": "car",
+                "accuracy": "35%"
+            },
+            {
+                "type": "bottle",
+                "accuracy": "56%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.266666666666654,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "39%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "71%"
+            },
+            {
+                "type": "car",
+                "accuracy": "32%"
+            },
+            {
+                "type": "car",
+                "accuracy": "37%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.299999999999987,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "56%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "46%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "76%"
+            },
+            {
+                "type": "car",
+                "accuracy": "32%"
+            },
+            {
+                "type": "car",
+                "accuracy": "36%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.333333333333321,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "56%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "45%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "36%"
+            },
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "car",
+                "accuracy": "35%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.366666666666654,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "54%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "43%"
+            },
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "47%"
+            },
+            {
+                "type": "car",
+                "accuracy": "34%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.399999999999987,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "39%"
+            },
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "70%"
+            },
+            {
+                "type": "car",
+                "accuracy": "34%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.43333333333332,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "29%"
+            },
+            {
+                "type": "car",
+                "accuracy": "33%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.4666666666666535,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            },
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "75%"
+            },
+            {
+                "type": "car",
+                "accuracy": "33%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.499999999999987,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "37%"
+            },
+            {
+                "type": "car",
+                "accuracy": "32%"
+            },
+            {
+                "type": "person",
+                "accuracy": "88%"
+            },
+            {
+                "type": "car",
+                "accuracy": "32%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.53333333333332,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            },
+            {
+                "type": "car",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            },
+            {
+                "type": "car",
+                "accuracy": "33%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.566666666666653,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "41%"
+            },
+            {
+                "type": "car",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            },
+            {
+                "type": "car",
+                "accuracy": "31%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.599999999999986,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            },
+            {
+                "type": "car",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "88%"
+            },
+            {
+                "type": "car",
+                "accuracy": "30%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.6333333333333195,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "25%"
+            },
+            {
+                "type": "car",
+                "accuracy": "32%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            },
+            {
+                "type": "car",
+                "accuracy": "33%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.666666666666653,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "32%"
+            },
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.699999999999986,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "car",
+                "accuracy": "30%"
+            },
+            {
+                "type": "person",
+                "accuracy": "80%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.733333333333319,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "80%"
+            },
+            {
+                "type": "car",
+                "accuracy": "31%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.766666666666652,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "25%"
+            },
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "67%"
+            },
+            {
+                "type": "car",
+                "accuracy": "30%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.799999999999986,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "61%"
+            },
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "car",
+                "accuracy": "28%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.833333333333319,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "32%"
+            },
+            {
+                "type": "car",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "62%"
+            },
+            {
+                "type": "car",
+                "accuracy": "27%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.866666666666652,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "car",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            },
+            {
+                "type": "car",
+                "accuracy": "31%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.899999999999985,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "93%"
+            },
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "car",
+                "accuracy": "29%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.9333333333333185,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "car",
+                "accuracy": "25%"
+            },
+            {
+                "type": "person",
+                "accuracy": "94%"
+            },
+            {
+                "type": "car",
+                "accuracy": "28%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.966666666666652,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "93%"
+            },
+            {
+                "type": "car",
+                "accuracy": "28%"
+            }
+        ]
+    },
+    {
+        "timestamp": 6.999999999999985,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "68%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.033333333333318,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "68%"
+            },
+            {
+                "type": "car",
+                "accuracy": "28%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.066666666666651,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "35%"
+            },
+            {
+                "type": "car",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "56%"
+            },
+            {
+                "type": "car",
+                "accuracy": "41%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.0999999999999845,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "42%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            },
+            {
+                "type": "car",
+                "accuracy": "38%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.133333333333318,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "37%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "32%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "95%"
+            },
+            {
+                "type": "car",
+                "accuracy": "40%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.166666666666651,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "91%"
+            },
+            {
+                "type": "car",
+                "accuracy": "38%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.199999999999984,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "44%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "41%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "39%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            },
+            {
+                "type": "car",
+                "accuracy": "35%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.233333333333317,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "35%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "92%"
+            },
+            {
+                "type": "car",
+                "accuracy": "38%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.266666666666651,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "40%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "car",
+                "accuracy": "33%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.299999999999984,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "42%"
+            },
+            {
+                "type": "person",
+                "accuracy": "92%"
+            },
+            {
+                "type": "car",
+                "accuracy": "34%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.333333333333317,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "42%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            },
+            {
+                "type": "car",
+                "accuracy": "34%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.36666666666665,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "45%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "92%"
+            },
+            {
+                "type": "car",
+                "accuracy": "34%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.3999999999999835,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "car",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "91%"
+            },
+            {
+                "type": "car",
+                "accuracy": "36%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.433333333333317,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "person",
+                "accuracy": "91%"
+            },
+            {
+                "type": "car",
+                "accuracy": "26%"
+            },
+            {
+                "type": "car",
+                "accuracy": "36%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.46666666666665,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "car",
+                "accuracy": "27%"
+            },
+            {
+                "type": "car",
+                "accuracy": "37%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.499999999999983,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "34%"
+            },
+            {
+                "type": "car",
+                "accuracy": "25%"
+            },
+            {
+                "type": "person",
+                "accuracy": "78%"
+            },
+            {
+                "type": "car",
+                "accuracy": "36%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.533333333333316,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "35%"
+            },
+            {
+                "type": "person",
+                "accuracy": "76%"
+            },
+            {
+                "type": "car",
+                "accuracy": "34%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.5666666666666496,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "35%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "person",
+                "accuracy": "84%"
+            },
+            {
+                "type": "car",
+                "accuracy": "33%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.599999999999983,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "30%"
+            },
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "82%"
+            },
+            {
+                "type": "car",
+                "accuracy": "33%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.633333333333316,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "car",
+                "accuracy": "32%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.666666666666649,
+        "Objects": [
+            {
+                "type": "cell phone",
+                "accuracy": "43%"
+            },
+            {
+                "type": "person",
+                "accuracy": "94%"
+            },
+            {
+                "type": "car",
+                "accuracy": "35%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.699999999999982,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "92%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.733333333333316,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.766666666666649,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "83%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.799999999999982,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.833333333333315,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.8666666666666485,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "car",
+                "accuracy": "34%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.899999999999982,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "34%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.933333333333315,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "35%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.966666666666648,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "car",
+                "accuracy": "34%"
+            },
+            {
+                "type": "car",
+                "accuracy": "34%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            }
+        ]
+    },
+    {
+        "timestamp": 7.999999999999981,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "34%"
+            },
+            {
+                "type": "car",
+                "accuracy": "30%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.033333333333315,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            },
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "car",
+                "accuracy": "34%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.066666666666649,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "29%"
+            },
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.099999999999982,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "35%"
+            },
+            {
+                "type": "car",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.133333333333315,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "car",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "79%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.166666666666648,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "83%"
+            },
+            {
+                "type": "car",
+                "accuracy": "30%"
+            },
+            {
+                "type": "car",
+                "accuracy": "26%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.199999999999982,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "25%"
+            },
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "78%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.233333333333315,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "30%"
+            },
+            {
+                "type": "person",
+                "accuracy": "81%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.266666666666648,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "32%"
+            },
+            {
+                "type": "person",
+                "accuracy": "78%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.299999999999981,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "83%"
+            },
+            {
+                "type": "car",
+                "accuracy": "43%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.333333333333314,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "76%"
+            },
+            {
+                "type": "car",
+                "accuracy": "40%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.366666666666648,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "42%"
+            },
+            {
+                "type": "person",
+                "accuracy": "69%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.39999999999998,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "43%"
+            },
+            {
+                "type": "car",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "70%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.433333333333314,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "43%"
+            },
+            {
+                "type": "car",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "74%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.466666666666647,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "39%"
+            },
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "35%"
+            },
+            {
+                "type": "person",
+                "accuracy": "79%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.49999999999998,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "83%"
+            },
+            {
+                "type": "car",
+                "accuracy": "40%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.533333333333314,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "41%"
+            },
+            {
+                "type": "person",
+                "accuracy": "81%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.566666666666647,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "48%"
+            },
+            {
+                "type": "person",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "77%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.59999999999998,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "50%"
+            },
+            {
+                "type": "person",
+                "accuracy": "81%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.633333333333313,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "25%"
+            },
+            {
+                "type": "person",
+                "accuracy": "37%"
+            },
+            {
+                "type": "person",
+                "accuracy": "83%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.666666666666647,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "32%"
+            },
+            {
+                "type": "car",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "36%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.69999999999998,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "29%"
+            },
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "34%"
+            },
+            {
+                "type": "person",
+                "accuracy": "82%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.733333333333313,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "car",
+                "accuracy": "30%"
+            },
+            {
+                "type": "car",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "30%"
+            },
+            {
+                "type": "person",
+                "accuracy": "73%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.766666666666646,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "car",
+                "accuracy": "30%"
+            },
+            {
+                "type": "car",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "36%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.79999999999998,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "39%"
+            },
+            {
+                "type": "car",
+                "accuracy": "35%"
+            },
+            {
+                "type": "car",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "50%"
+            },
+            {
+                "type": "person",
+                "accuracy": "84%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.833333333333313,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "93%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.866666666666646,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "90%"
+            },
+            {
+                "type": "person",
+                "accuracy": "84%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.899999999999979,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "91%"
+            },
+            {
+                "type": "person",
+                "accuracy": "82%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.933333333333312,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "person",
+                "accuracy": "78%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.966666666666645,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            }
+        ]
+    },
+    {
+        "timestamp": 8.999999999999979,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "83%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.033333333333312,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "74%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.066666666666645,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "71%"
+            },
+            {
+                "type": "person",
+                "accuracy": "81%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.099999999999978,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "38%"
+            },
+            {
+                "type": "person",
+                "accuracy": "73%"
+            },
+            {
+                "type": "person",
+                "accuracy": "96%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.133333333333312,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "36%"
+            },
+            {
+                "type": "person",
+                "accuracy": "69%"
+            },
+            {
+                "type": "person",
+                "accuracy": "92%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.166666666666645,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "67%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.199999999999978,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            },
+            {
+                "type": "person",
+                "accuracy": "91%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.233333333333311,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "91%"
+            },
+            {
+                "type": "person",
+                "accuracy": "79%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.266666666666644,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "88%"
+            },
+            {
+                "type": "person",
+                "accuracy": "93%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.299999999999978,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "26%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            },
+            {
+                "type": "person",
+                "accuracy": "93%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.33333333333331,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "person",
+                "accuracy": "75%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.366666666666644,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "76%"
+            },
+            {
+                "type": "person",
+                "accuracy": "64%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.399999999999977,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "person",
+                "accuracy": "74%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.43333333333331,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "83%"
+            },
+            {
+                "type": "person",
+                "accuracy": "81%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.466666666666644,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "90%"
+            },
+            {
+                "type": "person",
+                "accuracy": "84%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.499999999999977,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "person",
+                "accuracy": "72%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.53333333333331,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "87%"
+            },
+            {
+                "type": "person",
+                "accuracy": "80%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.566666666666643,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "86%"
+            },
+            {
+                "type": "person",
+                "accuracy": "74%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.599999999999977,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "85%"
+            },
+            {
+                "type": "person",
+                "accuracy": "83%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.63333333333331,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "88%"
+            },
+            {
+                "type": "person",
+                "accuracy": "74%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.666666666666643,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "87%"
+            },
+            {
+                "type": "person",
+                "accuracy": "69%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.699999999999976,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "85%"
+            },
+            {
+                "type": "person",
+                "accuracy": "66%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.73333333333331,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "85%"
+            },
+            {
+                "type": "person",
+                "accuracy": "68%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.766666666666643,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "82%"
+            },
+            {
+                "type": "person",
+                "accuracy": "66%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.799999999999976,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "81%"
+            },
+            {
+                "type": "person",
+                "accuracy": "72%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.833333333333309,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "78%"
+            },
+            {
+                "type": "person",
+                "accuracy": "63%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.866666666666642,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "80%"
+            },
+            {
+                "type": "person",
+                "accuracy": "68%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.899999999999975,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "83%"
+            },
+            {
+                "type": "person",
+                "accuracy": "73%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.933333333333309,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "83%"
+            },
+            {
+                "type": "person",
+                "accuracy": "73%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.966666666666642,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "36%"
+            },
+            {
+                "type": "car",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "67%"
+            },
+            {
+                "type": "person",
+                "accuracy": "82%"
+            }
+        ]
+    },
+    {
+        "timestamp": 9.999999999999975,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "34%"
+            },
+            {
+                "type": "person",
+                "accuracy": "68%"
+            },
+            {
+                "type": "person",
+                "accuracy": "83%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.033333333333308,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "77%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.066666666666642,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "32%"
+            },
+            {
+                "type": "person",
+                "accuracy": "80%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.099999999999975,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "84%"
+            },
+            {
+                "type": "person",
+                "accuracy": "88%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.133333333333308,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "32%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            },
+            {
+                "type": "person",
+                "accuracy": "88%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.166666666666641,
+        "Objects": [
+            {
+                "type": "chair",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "82%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "car",
+                "accuracy": "33%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.199999999999974,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "36%"
+            },
+            {
+                "type": "person",
+                "accuracy": "82%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.233333333333308,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "35%"
+            },
+            {
+                "type": "person",
+                "accuracy": "79%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.26666666666664,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "34%"
+            },
+            {
+                "type": "person",
+                "accuracy": "83%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.299999999999974,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.333333333333307,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.36666666666664,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "34%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.399999999999974,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "30%"
+            },
+            {
+                "type": "person",
+                "accuracy": "88%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.433333333333307,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "33%"
+            },
+            {
+                "type": "person",
+                "accuracy": "88%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.46666666666664,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "31%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.499999999999973,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.533333333333307,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            },
+            {
+                "type": "person",
+                "accuracy": "88%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.56666666666664,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.599999999999973,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "84%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.633333333333306,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            },
+            {
+                "type": "person",
+                "accuracy": "88%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.66666666666664,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.699999999999973,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "29%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.733333333333306,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.766666666666639,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.799999999999972,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "83%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.833333333333306,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            },
+            {
+                "type": "person",
+                "accuracy": "91%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.866666666666639,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.899999999999972,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "28%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            },
+            {
+                "type": "person",
+                "accuracy": "88%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.933333333333305,
+        "Objects": [
+            {
+                "type": "car",
+                "accuracy": "27%"
+            },
+            {
+                "type": "person",
+                "accuracy": "86%"
+            },
+            {
+                "type": "person",
+                "accuracy": "90%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.966666666666638,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "90%"
+            },
+            {
+                "type": "person",
+                "accuracy": "88%"
+            }
+        ]
+    },
+    {
+        "timestamp": 10.999999999999972,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "92%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.033333333333305,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "person",
+                "accuracy": "87%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.066666666666638,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "88%"
+            },
+            {
+                "type": "person",
+                "accuracy": "84%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.099999999999971,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "person",
+                "accuracy": "84%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.133333333333304,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "89%"
+            },
+            {
+                "type": "person",
+                "accuracy": "85%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.166666666666638,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "82%"
+            },
+            {
+                "type": "person",
+                "accuracy": "78%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.19999999999997,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "82%"
+            },
+            {
+                "type": "person",
+                "accuracy": "77%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.233333333333304,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "84%"
+            },
+            {
+                "type": "person",
+                "accuracy": "71%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.266666666666637,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "85%"
+            },
+            {
+                "type": "person",
+                "accuracy": "80%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.29999999999997,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "84%"
+            },
+            {
+                "type": "person",
+                "accuracy": "82%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.333333333333304,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "81%"
+            },
+            {
+                "type": "person",
+                "accuracy": "73%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.366666666666637,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "79%"
+            },
+            {
+                "type": "person",
+                "accuracy": "75%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.39999999999997,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "84%"
+            },
+            {
+                "type": "person",
+                "accuracy": "79%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.433333333333303,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "83%"
+            },
+            {
+                "type": "person",
+                "accuracy": "77%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.466666666666637,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "83%"
+            },
+            {
+                "type": "person",
+                "accuracy": "76%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.49999999999997,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "77%"
+            },
+            {
+                "type": "person",
+                "accuracy": "75%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.533333333333303,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "83%"
+            },
+            {
+                "type": "person",
+                "accuracy": "75%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.566666666666636,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "76%"
+            },
+            {
+                "type": "person",
+                "accuracy": "76%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.59999999999997,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "82%"
+            }
+        ]
+    },
+    {
+        "timestamp": 11.633333333333303,
+        "Objects": [
+            {
+                "type": "person",
+                "accuracy": "88%"
+            },
+            {
+                "type": "Stream closed."
+            },
+            {
+                "type": "person",
+                "accuracy": "77%"
+            }
+        ]
+    }
+]

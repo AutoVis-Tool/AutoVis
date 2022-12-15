@@ -1,0 +1,734 @@
+[
+    {
+        "timestamp": 0.03333333333333333,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.06666666666666667,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.1,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.13333333333333333,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.16666666666666666,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.19999999999999998,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.2333333333333333,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.26666666666666666,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.3,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.3333333333333333,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.36666666666666664,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.39999999999999997,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.4333333333333333,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.4666666666666666,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.49999999999999994,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.5333333333333333,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.5666666666666667,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.6,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.6333333333333333,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.6666666666666666,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.7,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.7333333333333333,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.7666666666666666,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.7999999999999999,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.8333333333333333,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.8666666666666666,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.8999999999999999,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.9333333333333332,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.9666666666666666,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 0.9999999999999999,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.0333333333333332,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.0666666666666667,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.1,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.1333333333333335,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.166666666666667,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.2000000000000004,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.2333333333333338,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.2666666666666673,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.3000000000000007,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.3333333333333341,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.3666666666666676,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.400000000000001,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.4333333333333345,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.466666666666668,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.5000000000000013,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.5333333333333348,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.5666666666666682,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.6000000000000016,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.633333333333335,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.6666666666666685,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.700000000000002,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.7333333333333354,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.7666666666666688,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.8000000000000023,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.8333333333333357,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.8666666666666691,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.9000000000000026,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.933333333333336,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 1.9666666666666694,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.0000000000000027,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.033333333333336,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.066666666666669,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.1000000000000023,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.1333333333333355,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.1666666666666687,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.200000000000002,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.233333333333335,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.2666666666666684,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.3000000000000016,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.333333333333335,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.366666666666668,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.4000000000000012,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.4333333333333345,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.4666666666666677,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.500000000000001,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.533333333333334,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.5666666666666673,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.6000000000000005,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.6333333333333337,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.666666666666667,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.7,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.7333333333333334,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.7666666666666666,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.8,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.833333333333333,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.8666666666666663,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.8999999999999995,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.9333333333333327,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.966666666666666,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 2.999999999999999,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.0333333333333323,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.0666666666666655,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.0999999999999988,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.133333333333332,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.166666666666665,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.1999999999999984,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.2333333333333316,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.266666666666665,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.299999999999998,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.3333333333333313,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.3666666666666645,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.3999999999999977,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.433333333333331,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.466666666666664,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.4999999999999973,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.5333333333333306,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.5666666666666638,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.599999999999997,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.63333333333333,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.6666666666666634,
+        "perclos_score": "0.0"
+    },
+    {
+        "timestamp": 3.6999999999999966,
+        "perclos_score": "0.0015151515151515152"
+    },
+    {
+        "timestamp": 3.73333333333333,
+        "perclos_score": "0.0015151515151515152"
+    },
+    {
+        "timestamp": 3.766666666666663,
+        "perclos_score": "0.0015151515151515152"
+    },
+    {
+        "timestamp": 3.7999999999999963,
+        "perclos_score": "0.0015151515151515152"
+    },
+    {
+        "timestamp": 3.8333333333333295,
+        "perclos_score": "0.0015151515151515152"
+    },
+    {
+        "timestamp": 3.8666666666666627,
+        "perclos_score": "0.0015151515151515152"
+    },
+    {
+        "timestamp": 3.899999999999996,
+        "perclos_score": "0.0015151515151515152"
+    },
+    {
+        "timestamp": 3.933333333333329,
+        "perclos_score": "0.0015151515151515152"
+    },
+    {
+        "timestamp": 3.9666666666666623,
+        "perclos_score": "0.0015151515151515152"
+    },
+    {
+        "timestamp": 3.9999999999999956,
+        "perclos_score": "0.0030303030303030303"
+    },
+    {
+        "timestamp": 4.033333333333329,
+        "perclos_score": "0.0030303030303030303"
+    },
+    {
+        "timestamp": 4.066666666666662,
+        "perclos_score": "0.0030303030303030303"
+    },
+    {
+        "timestamp": 4.099999999999995,
+        "perclos_score": "0.0030303030303030303"
+    },
+    {
+        "timestamp": 4.133333333333328,
+        "perclos_score": "0.0030303030303030303"
+    },
+    {
+        "timestamp": 4.166666666666662,
+        "perclos_score": "0.0030303030303030303"
+    },
+    {
+        "timestamp": 4.199999999999995,
+        "perclos_score": "0.0030303030303030303"
+    },
+    {
+        "timestamp": 4.233333333333328,
+        "perclos_score": "0.0030303030303030303"
+    },
+    {
+        "timestamp": 4.266666666666661,
+        "perclos_score": "0.0030303030303030303"
+    },
+    {
+        "timestamp": 4.2999999999999945,
+        "perclos_score": "0.0030303030303030303"
+    },
+    {
+        "timestamp": 4.333333333333328,
+        "perclos_score": "0.0030303030303030303"
+    },
+    {
+        "timestamp": 4.366666666666661,
+        "perclos_score": "0.004545454545454545"
+    },
+    {
+        "timestamp": 4.399999999999994,
+        "perclos_score": "0.004545454545454545"
+    },
+    {
+        "timestamp": 4.433333333333327,
+        "perclos_score": "0.004545454545454545"
+    },
+    {
+        "timestamp": 4.466666666666661,
+        "perclos_score": "0.004545454545454545"
+    },
+    {
+        "timestamp": 4.499999999999994,
+        "perclos_score": "0.004545454545454545"
+    },
+    {
+        "timestamp": 4.533333333333327,
+        "perclos_score": "0.004545454545454545"
+    },
+    {
+        "timestamp": 4.56666666666666,
+        "perclos_score": "0.004545454545454545"
+    },
+    {
+        "timestamp": 4.599999999999993,
+        "perclos_score": "0.004545454545454545"
+    },
+    {
+        "timestamp": 4.633333333333327,
+        "perclos_score": "0.004545454545454545"
+    },
+    {
+        "timestamp": 4.66666666666666,
+        "perclos_score": "0.004545454545454545"
+    },
+    {
+        "timestamp": 4.699999999999993,
+        "perclos_score": "0.004545454545454545"
+    },
+    {
+        "timestamp": 4.733333333333326,
+        "perclos_score": "0.004545454545454545"
+    },
+    {
+        "timestamp": 4.7666666666666595,
+        "perclos_score": "0.004545454545454545"
+    },
+    {
+        "timestamp": 4.799999999999993,
+        "perclos_score": "0.004545454545454545"
+    },
+    {
+        "timestamp": 4.833333333333326,
+        "perclos_score": "0.006060606060606061"
+    },
+    {
+        "timestamp": 4.866666666666659,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 4.899999999999992,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 4.933333333333326,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 4.966666666666659,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 4.999999999999992,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.033333333333325,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.066666666666658,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.099999999999992,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.133333333333325,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.166666666666658,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.199999999999991,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.2333333333333245,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.266666666666658,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.299999999999991,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.333333333333324,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.366666666666657,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.399999999999991,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.433333333333324,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.466666666666657,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.49999999999999,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.5333333333333234,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.566666666666657,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.59999999999999,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.633333333333323,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.666666666666656,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.6999999999999895,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.733333333333323,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.766666666666656,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.799999999999989,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.833333333333322,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.866666666666656,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.899999999999989,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.933333333333322,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.966666666666655,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 5.9999999999999885,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 6.033333333333322,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 6.066666666666655,
+        "perclos_score": "0.007575757575757577"
+    },
+    {
+        "timestamp": 6.099999999999988,
+        "perclos_score": "0.007575757575757577"
+    }
+]

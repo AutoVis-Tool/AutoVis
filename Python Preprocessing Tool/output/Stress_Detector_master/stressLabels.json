@@ -1,0 +1,449 @@
+[
+    {
+        "timestamp": 0.03333333333333333
+    },
+    {
+        "timestamp": 0.06666666666666667
+    },
+    {
+        "timestamp": 0.1
+    },
+    {
+        "timestamp": 0.13333333333333333
+    },
+    {
+        "timestamp": 0.16666666666666666
+    },
+    {
+        "timestamp": 0.19999999999999998
+    },
+    {
+        "timestamp": 0.2333333333333333
+    },
+    {
+        "timestamp": 0.26666666666666666
+    },
+    {
+        "timestamp": 0.3
+    },
+    {
+        "timestamp": 0.3333333333333333
+    },
+    {
+        "timestamp": 0.36666666666666664
+    },
+    {
+        "timestamp": 0.39999999999999997
+    },
+    {
+        "timestamp": 0.4333333333333333
+    },
+    {
+        "timestamp": 0.4666666666666666
+    },
+    {
+        "timestamp": 0.49999999999999994
+    },
+    {
+        "timestamp": 0.5333333333333333
+    },
+    {
+        "timestamp": 0.5666666666666667
+    },
+    {
+        "timestamp": 0.6
+    },
+    {
+        "timestamp": 0.6333333333333333
+    },
+    {
+        "timestamp": 0.6666666666666666
+    },
+    {
+        "timestamp": 0.7
+    },
+    {
+        "timestamp": 0.7333333333333333
+    },
+    {
+        "timestamp": 0.7666666666666666
+    },
+    {
+        "timestamp": 0.7999999999999999
+    },
+    {
+        "timestamp": 0.8333333333333333
+    },
+    {
+        "timestamp": 0.8666666666666666
+    },
+    {
+        "timestamp": 0.8999999999999999
+    },
+    {
+        "timestamp": 0.9333333333333332
+    },
+    {
+        "timestamp": 0.9666666666666666
+    },
+    {
+        "timestamp": 0.9999999999999999
+    },
+    {
+        "timestamp": 1.0333333333333332
+    },
+    {
+        "timestamp": 1.0666666666666667
+    },
+    {
+        "timestamp": 1.1
+    },
+    {
+        "timestamp": 1.1333333333333335
+    },
+    {
+        "timestamp": 1.166666666666667
+    },
+    {
+        "timestamp": 1.2000000000000004
+    },
+    {
+        "timestamp": 1.2333333333333338
+    },
+    {
+        "timestamp": 1.2666666666666673
+    },
+    {
+        "timestamp": 1.3000000000000007
+    },
+    {
+        "timestamp": 1.3333333333333341
+    },
+    {
+        "timestamp": 1.3666666666666676
+    },
+    {
+        "timestamp": 1.400000000000001
+    },
+    {
+        "timestamp": 1.4333333333333345
+    },
+    {
+        "timestamp": 1.466666666666668
+    },
+    {
+        "timestamp": 1.5000000000000013
+    },
+    {
+        "timestamp": 1.5333333333333348
+    },
+    {
+        "timestamp": 1.5666666666666682
+    },
+    {
+        "timestamp": 1.6000000000000016
+    },
+    {
+        "timestamp": 1.633333333333335
+    },
+    {
+        "timestamp": 1.6666666666666685
+    },
+    {
+        "timestamp": 1.700000000000002
+    },
+    {
+        "timestamp": 1.7333333333333354
+    },
+    {
+        "timestamp": 1.7666666666666688
+    },
+    {
+        "timestamp": 1.8000000000000023
+    },
+    {
+        "timestamp": 1.8333333333333357
+    },
+    {
+        "timestamp": 1.8666666666666691
+    },
+    {
+        "timestamp": 1.9000000000000026
+    },
+    {
+        "timestamp": 1.933333333333336
+    },
+    {
+        "timestamp": 1.9666666666666694
+    },
+    {
+        "timestamp": 2.0000000000000027
+    },
+    {
+        "timestamp": 2.033333333333336,
+        "stressLabels": "Low Stress"
+    },
+    {
+        "timestamp": 2.066666666666669,
+        "stressLabels": "Low Stress"
+    },
+    {
+        "timestamp": 2.1000000000000023,
+        "stressLabels": "Low Stress"
+    },
+    {
+        "timestamp": 2.1333333333333355,
+        "stressLabels": "High Stress"
+    },
+    {
+        "timestamp": 2.1666666666666687,
+        "stressLabels": "Low Stress"
+    },
+    {
+        "timestamp": 2.200000000000002,
+        "stressLabels": "Low Stress"
+    },
+    {
+        "timestamp": 2.233333333333335,
+        "stressLabels": "High Stress"
+    },
+    {
+        "timestamp": 2.2666666666666684,
+        "stressLabels": "Low Stress"
+    },
+    {
+        "timestamp": 2.3000000000000016,
+        "stressLabels": "Low Stress"
+    },
+    {
+        "timestamp": 2.333333333333335,
+        "stressLabels": "High Stress"
+    },
+    {
+        "timestamp": 2.366666666666668,
+        "stressLabels": "Low Stress"
+    },
+    {
+        "timestamp": 2.4000000000000012,
+        "stressLabels": "High Stress"
+    },
+    {
+        "timestamp": 2.4333333333333345,
+        "stressLabels": "Low Stress"
+    },
+    {
+        "timestamp": 2.4666666666666677,
+        "stressLabels": "Low Stress"
+    },
+    {
+        "timestamp": 2.500000000000001,
+        "stressLabels": "Low Stress"
+    },
+    {
+        "timestamp": 2.533333333333334,
+        "stressLabels": "High Stress"
+    },
+    {
+        "timestamp": 2.5666666666666673,
+        "stressLabels": "High Stress"
+    },
+    {
+        "timestamp": 2.6000000000000005,
+        "stressLabels": "High Stress"
+    },
+    {
+        "timestamp": 2.6333333333333337,
+        "stressLabels": "Low Stress"
+    },
+    {
+        "timestamp": 2.666666666666667,
+        "stressLabels": "Low Stress"
+    },
+    {
+        "timestamp": 2.7,
+        "stressLabels": "High Stress"
+    },
+    {
+        "timestamp": 2.7333333333333334,
+        "stressLabels": "High Stress"
+    },
+    {
+        "timestamp": 2.7666666666666666,
+        "stressLabels": "High Stress"
+    },
+    {
+        "timestamp": 2.8,
+        "stressLabels": "Low Stress"
+    },
+    {
+        "timestamp": 2.833333333333333
+    },
+    {
+        "timestamp": 2.8666666666666663
+    },
+    {
+        "timestamp": 2.8999999999999995
+    },
+    {
+        "timestamp": 2.9333333333333327
+    },
+    {
+        "timestamp": 2.966666666666666
+    },
+    {
+        "timestamp": 2.999999999999999
+    },
+    {
+        "timestamp": 3.0333333333333323
+    },
+    {
+        "timestamp": 3.0666666666666655
+    },
+    {
+        "timestamp": 3.0999999999999988
+    },
+    {
+        "timestamp": 3.133333333333332
+    },
+    {
+        "timestamp": 3.166666666666665
+    },
+    {
+        "timestamp": 3.1999999999999984
+    },
+    {
+        "timestamp": 3.2333333333333316
+    },
+    {
+        "timestamp": 3.266666666666665
+    },
+    {
+        "timestamp": 3.299999999999998
+    },
+    {
+        "timestamp": 3.3333333333333313
+    },
+    {
+        "timestamp": 3.3666666666666645
+    },
+    {
+        "timestamp": 3.3999999999999977
+    },
+    {
+        "timestamp": 3.433333333333331
+    },
+    {
+        "timestamp": 3.466666666666664
+    },
+    {
+        "timestamp": 3.4999999999999973
+    },
+    {
+        "timestamp": 3.5333333333333306
+    },
+    {
+        "timestamp": 3.5666666666666638
+    },
+    {
+        "timestamp": 3.599999999999997
+    },
+    {
+        "timestamp": 3.63333333333333
+    },
+    {
+        "timestamp": 3.6666666666666634
+    },
+    {
+        "timestamp": 3.6999999999999966
+    },
+    {
+        "timestamp": 3.73333333333333
+    },
+    {
+        "timestamp": 3.766666666666663
+    },
+    {
+        "timestamp": 3.7999999999999963
+    },
+    {
+        "timestamp": 3.8333333333333295
+    },
+    {
+        "timestamp": 3.8666666666666627
+    },
+    {
+        "timestamp": 3.899999999999996
+    },
+    {
+        "timestamp": 3.933333333333329
+    },
+    {
+        "timestamp": 3.9666666666666623
+    },
+    {
+        "timestamp": 3.9999999999999956
+    },
+    {
+        "timestamp": 4.033333333333329
+    },
+    {
+        "timestamp": 4.066666666666662
+    },
+    {
+        "timestamp": 4.099999999999995
+    },
+    {
+        "timestamp": 4.133333333333328
+    },
+    {
+        "timestamp": 4.166666666666662
+    },
+    {
+        "timestamp": 4.199999999999995
+    },
+    {
+        "timestamp": 4.233333333333328
+    },
+    {
+        "timestamp": 4.266666666666661
+    },
+    {
+        "timestamp": 4.2999999999999945
+    },
+    {
+        "timestamp": 4.333333333333328
+    },
+    {
+        "timestamp": 4.366666666666661
+    },
+    {
+        "timestamp": 4.399999999999994
+    },
+    {
+        "timestamp": 4.433333333333327
+    },
+    {
+        "timestamp": 4.466666666666661
+    },
+    {
+        "timestamp": 4.499999999999994
+    },
+    {
+        "timestamp": 4.533333333333327
+    },
+    {
+        "timestamp": 4.56666666666666
+    },
+    {
+        "timestamp": 4.599999999999993
+    },
+    {
+        "timestamp": 4.633333333333327
+    },
+    {
+        "timestamp": 4.66666666666666
+    },
+    {
+        "timestamp": 4.699999999999993
+    }
+]
